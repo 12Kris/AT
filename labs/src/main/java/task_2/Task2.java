@@ -1,4 +1,4 @@
-package task_1;
+package task_2;
 /*V 10: Character Operations
 Objective: To understand and use primitive char type in Java.
 Instructions:
@@ -7,8 +7,9 @@ Use Character methods (e.g., isDigit, isLetter, toUpperCase, toLowerCase) to man
 Print the result of each operation to the console.
 */
 
-public class Task1 {
+public class Task2 {
     public static void main(String[] args) {
+
         char character = 'a';
 
         System.out.println("Character: " + character);
@@ -28,5 +29,17 @@ public class Task1 {
         boolean isLowerCase = Character.isLowerCase(character);
         System.out.println("Is lowercase: " + isLowerCase);
 
+    }
+
+    public boolean isLetter (char a) {
+        return Character.isLetter(a);
+    }
+
+    public boolean isUpperCase (char a){
+        return Character.isUpperCase(a);
+    }
+
+    public boolean isLowerCase (char a){
+        return Character.isLowerCase(a);
     }
 }

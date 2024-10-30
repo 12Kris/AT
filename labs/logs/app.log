@@ -1,0 +1,320 @@
+2024-10-14 22:31:33 INFO  Task13_listener - info message
+2024-10-14 22:31:33 INFO  Task13_listener - info message
+2024-10-14 22:31:33 INFO  Task13_listener - info message
+2024-10-14 22:31:33 INFO  Task13_listener - info message
+2024-10-14 22:31:33 INFO  Task13_listener - info message
+2024-10-14 22:31:33 INFO  Task13_listener - info message
+2024-10-14 22:31:33 INFO  Task13_listener - info message
+2024-10-14 22:31:33 INFO  Task13_listener - info message
+2024-10-14 22:31:33 INFO  Task13_listener - info message
+2024-10-14 22:31:33 INFO  Task13_listener - info message
+2024-10-14 22:31:33 INFO  Task13_listener - info message
+2024-10-14 22:31:33 INFO  Task13_listener - info message
+2024-10-15 00:04:34 INFO  Task13_listener - Test passed: isLetterDataProviderTest
+2024-10-15 00:04:34 INFO  Task13_listener - Test passed: isLetterDataProviderTest
+2024-10-15 00:04:34 INFO  Task13_listener - Test passed: isLetterDataProviderTest
+2024-10-15 00:04:34 INFO  Task13_listener - Test passed: isLetterLowerCase
+2024-10-15 00:04:34 INFO  Task13_listener - Test passed: isLetterLowerCaseDataProviderTest
+2024-10-15 00:04:34 INFO  Task13_listener - Test passed: isLetterLowerCaseDataProviderTest
+2024-10-15 00:04:34 INFO  Task13_listener - Test passed: isLetterLowerCaseDataProviderTest
+2024-10-15 00:04:34 INFO  Task13_listener - Test passed: isLetterTest
+2024-10-15 00:04:34 INFO  Task13_listener - Test passed: isLetterUppercase
+2024-10-15 00:04:34 INFO  Task13_listener - Test passed: isLetterUppercaseDataProviderTest
+2024-10-15 00:04:34 INFO  Task13_listener - Test passed: isLetterUppercaseDataProviderTest
+2024-10-15 00:04:34 INFO  Task13_listener - Test passed: isLetterUppercaseDataProviderTest
+2024-10-15 00:04:47 INFO  Task13_listener - Test passed
+2024-10-15 00:04:47 INFO  Task13_listener - Test passed
+2024-10-15 00:04:47 INFO  Task13_listener - Test passed
+2024-10-15 00:04:47 INFO  Task13_listener - Test passed
+2024-10-15 00:04:47 INFO  Task13_listener - Test passed
+2024-10-15 00:04:47 INFO  Task13_listener - Test passed
+2024-10-15 00:04:47 INFO  Task13_listener - Test passed
+2024-10-15 00:04:47 INFO  Task13_listener - Test passed
+2024-10-15 00:04:47 INFO  Task13_listener - Test passed
+2024-10-15 00:04:47 INFO  Task13_listener - Test passed
+2024-10-15 00:04:47 INFO  Task13_listener - Test passed
+2024-10-15 00:04:47 INFO  Task13_listener - Test passed
+2024-10-15 00:05:41 INFO  Task13_listener - Test passed
+2024-10-15 00:05:41 INFO  Task13_listener - Test passed
+2024-10-15 00:05:41 INFO  Task13_listener - Test passed
+2024-10-15 00:05:41 INFO  Task13_listener - Test passed
+2024-10-15 00:05:41 INFO  Task13_listener - Test passed
+2024-10-15 00:05:41 INFO  Task13_listener - Test passed
+2024-10-15 00:05:41 INFO  Task13_listener - Test passed
+2024-10-15 00:05:41 INFO  Task13_listener - Test passed
+2024-10-15 00:05:41 INFO  Task13_listener - Test passed
+2024-10-15 00:05:41 INFO  Task13_listener - Test passed
+2024-10-15 00:05:41 INFO  Task13_listener - Test passed
+2024-10-15 00:05:41 INFO  Task13_listener - Test passed
+2024-10-15 00:06:09 INFO  Task13_listener - Test passed
+2024-10-15 00:06:09 INFO  Task13_listener - Test passed
+2024-10-15 00:06:09 INFO  Task13_listener - Test passed
+2024-10-15 00:06:09 INFO  Task13_listener - Test passed
+2024-10-15 00:06:09 INFO  Task13_listener - Test passed
+2024-10-15 00:06:09 INFO  Task13_listener - Test passed
+2024-10-15 00:06:09 INFO  Task13_listener - Test passed
+2024-10-15 00:06:09 INFO  Task13_listener - Test passed
+2024-10-15 00:06:09 INFO  Task13_listener - Test passed
+2024-10-15 00:06:09 INFO  Task13_listener - Test passed
+2024-10-15 00:06:09 INFO  Task13_listener - Test passed
+2024-10-15 00:06:09 INFO  Task13_listener - Test passed
+2024-10-15 00:07:16 INFO  Task13_listener - Test passed
+2024-10-15 00:07:16 INFO  Task13_listener - Test passed
+2024-10-15 00:07:16 INFO  Task13_listener - Test passed
+2024-10-15 00:07:16 INFO  Task13_listener - Test passed
+2024-10-15 00:07:16 INFO  Task13_listener - Test passed
+2024-10-15 00:07:16 INFO  Task13_listener - Test passed
+2024-10-15 00:07:16 INFO  Task13_listener - Test passed
+2024-10-15 00:07:16 INFO  Task13_listener - Test passed
+2024-10-15 00:07:16 INFO  Task13_listener - Test passed
+2024-10-15 00:07:16 INFO  Task13_listener - Test passed
+2024-10-15 00:07:16 INFO  Task13_listener - Test passed
+2024-10-15 00:07:16 INFO  Task13_listener - Test passed
+2024-10-15 13:08:01 INFO  Task13_listener - Test execution started.
+2024-10-15 13:08:01 INFO  Task13_listener - Starting the test suite: Default Suite
+2024-10-15 13:08:01 INFO  Task13_listener - Finishing the test suite: Default Suite
+2024-10-15 13:08:01 INFO  Task13_listener - Test execution finished.
+2024-10-15 13:10:44 INFO  Task13_listener - Test execution started.
+2024-10-15 13:10:44 INFO  Task13_listener - Starting the test suite: Default Suite
+2024-10-15 13:10:44 INFO  Task13_listener - Finishing the test suite: Default Suite
+2024-10-15 13:10:44 INFO  Task13_listener - Test execution finished.
+2024-10-15 13:11:47 INFO  Task13_listener - Test execution started.
+2024-10-15 13:11:47 INFO  Task13_listener - Starting the test suite: Default Suite
+2024-10-15 13:11:47 INFO  Task13_listener - Finishing the test suite: Default Suite
+2024-10-15 13:11:47 INFO  Task13_listener - Test execution finished.
+2024-10-28 23:48:45 INFO  Version - HHH000412: Hibernate Core {5.3.20.Final}
+2024-10-28 23:48:45 INFO  Environment - HHH000206: hibernate.properties not found
+2024-10-28 23:48:46 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-10-28 23:48:46 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-28 23:48:46 INFO  pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/]
+2024-10-28 23:48:46 INFO  pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-10-28 23:48:46 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-10-28 23:48:46 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2024-10-28 23:48:47 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-28 23:51:59 INFO  Version - HHH000412: Hibernate Core {5.3.20.Final}
+2024-10-28 23:51:59 INFO  Environment - HHH000206: hibernate.properties not found
+2024-10-28 23:52:00 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-10-28 23:52:00 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-28 23:52:00 INFO  pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/]
+2024-10-28 23:52:00 INFO  pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-10-28 23:52:00 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-10-28 23:52:00 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2024-10-28 23:52:00 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-28 23:52:00 INFO  access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@4b03cbad] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-10-28 23:52:00 WARN  ExceptionHandlerLoggedImpl - GenerationTarget encountered exception accepting command : Error executing DDL "create table friends (id bigint not null auto_increment, friend_name varchar(255), person_id bigint not null, primary key (id)) engine=InnoDB" via JDBC Statement
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "create table friends (id bigint not null auto_increment, friend_name varchar(255), person_id bigint not null, primary key (id)) engine=InnoDB" via JDBC Statement
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:67) ~[hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlString(AbstractSchemaMigrator.java:559) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlStrings(AbstractSchemaMigrator.java:504) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.createTable(AbstractSchemaMigrator.java:277) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.GroupedSchemaMigratorImpl.performTablesMigration(GroupedSchemaMigratorImpl.java:71) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.performMigration(AbstractSchemaMigrator.java:207) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:114) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:183) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:72) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:310) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:467) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:708) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:724) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at task_6.Task_6.main(Task_6.java:14) [classes/:?]
+Caused by: java.sql.SQLException: No database selected
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129) ~[mysql-connector-java-8.0.28.jar:8.0.28]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.28.jar:8.0.28]
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763) ~[mysql-connector-java-8.0.28.jar:8.0.28]
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648) ~[mysql-connector-java-8.0.28.jar:8.0.28]
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:54) ~[hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	... 13 more
+2024-10-28 23:52:00 WARN  ExceptionHandlerLoggedImpl - GenerationTarget encountered exception accepting command : Error executing DDL "create table person (id bigint not null auto_increment, name varchar(255), timestamp bigint, is_working bit, primary key (id)) engine=InnoDB" via JDBC Statement
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "create table person (id bigint not null auto_increment, name varchar(255), timestamp bigint, is_working bit, primary key (id)) engine=InnoDB" via JDBC Statement
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:67) ~[hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlString(AbstractSchemaMigrator.java:559) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlStrings(AbstractSchemaMigrator.java:504) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.createTable(AbstractSchemaMigrator.java:277) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.GroupedSchemaMigratorImpl.performTablesMigration(GroupedSchemaMigratorImpl.java:71) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.performMigration(AbstractSchemaMigrator.java:207) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:114) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:183) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:72) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:310) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:467) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:708) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:724) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at task_6.Task_6.main(Task_6.java:14) [classes/:?]
+Caused by: java.sql.SQLException: No database selected
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129) ~[mysql-connector-java-8.0.28.jar:8.0.28]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.28.jar:8.0.28]
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763) ~[mysql-connector-java-8.0.28.jar:8.0.28]
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648) ~[mysql-connector-java-8.0.28.jar:8.0.28]
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:54) ~[hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	... 13 more
+2024-10-28 23:52:00 WARN  ExceptionHandlerLoggedImpl - GenerationTarget encountered exception accepting command : Error executing DDL "alter table friends add constraint FKoe11ieewh45mwweukudvhjpvp foreign key (person_id) references person (id)" via JDBC Statement
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "alter table friends add constraint FKoe11ieewh45mwweukudvhjpvp foreign key (person_id) references person (id)" via JDBC Statement
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:67) ~[hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlString(AbstractSchemaMigrator.java:559) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applySqlStrings(AbstractSchemaMigrator.java:504) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.applyForeignKeys(AbstractSchemaMigrator.java:433) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.performMigration(AbstractSchemaMigrator.java:249) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:114) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:183) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:72) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:310) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:467) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:708) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:724) [hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	at task_6.Task_6.main(Task_6.java:14) [classes/:?]
+Caused by: java.sql.SQLException: No database selected
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129) ~[mysql-connector-java-8.0.28.jar:8.0.28]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.28.jar:8.0.28]
+	at com.mysql.cj.jdbc.StatementImpl.executeInternal(StatementImpl.java:763) ~[mysql-connector-java-8.0.28.jar:8.0.28]
+	at com.mysql.cj.jdbc.StatementImpl.execute(StatementImpl.java:648) ~[mysql-connector-java-8.0.28.jar:8.0.28]
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:54) ~[hibernate-core-5.3.20.Final.jar:5.3.20.Final]
+	... 12 more
+2024-10-28 23:52:00 WARN  SqlExceptionHelper - SQL Error: 1046, SQLState: 3D000
+2024-10-28 23:52:00 ERROR SqlExceptionHelper - No database selected
+2024-10-28 23:55:30 INFO  Version - HHH000412: Hibernate Core {5.3.20.Final}
+2024-10-28 23:55:30 INFO  Environment - HHH000206: hibernate.properties not found
+2024-10-28 23:55:31 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-10-28 23:55:31 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-28 23:55:31 INFO  pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/ITstepAQA]
+2024-10-28 23:55:31 INFO  pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-10-28 23:55:31 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-10-28 23:55:31 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2024-10-28 23:55:31 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-28 23:55:31 INFO  access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@273fa9e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-10-28 23:57:20 INFO  Version - HHH000412: Hibernate Core {5.3.20.Final}
+2024-10-28 23:57:20 INFO  Environment - HHH000206: hibernate.properties not found
+2024-10-28 23:57:20 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-10-28 23:57:20 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-28 23:57:20 INFO  pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/ITstepAQA]
+2024-10-28 23:57:20 INFO  pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-10-28 23:57:20 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-10-28 23:57:20 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2024-10-28 23:57:20 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-28 23:57:21 INFO  access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@437c4b25] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-10-28 23:57:21 INFO  pooling - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost/ITstepAQA]
+2024-10-29 00:07:53 INFO  Version - HHH000412: Hibernate Core {5.3.20.Final}
+2024-10-29 00:07:53 INFO  Environment - HHH000206: hibernate.properties not found
+2024-10-29 00:07:54 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-10-29 00:07:54 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-29 00:07:54 INFO  pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/ITstepAQA]
+2024-10-29 00:07:54 INFO  pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-10-29 00:07:54 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-10-29 00:07:54 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2024-10-29 00:07:54 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-29 00:07:55 INFO  access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3757e8e2] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-10-29 00:07:55 WARN  SqlExceptionHelper - SQL Error: 1451, SQLState: 23000
+2024-10-29 00:07:55 ERROR SqlExceptionHelper - Cannot delete or update a parent row: a foreign key constraint fails (`itstepaqa`.`friends`, CONSTRAINT `FKoe11ieewh45mwweukudvhjpvp` FOREIGN KEY (`person_id`) REFERENCES `person` (`id`))
+2024-10-29 00:07:55 INFO  AbstractBatchImpl - HHH000010: On release of batch it still contained JDBC statements
+2024-10-29 00:07:55 ERROR ExceptionMapperStandardImpl - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2024-10-29 00:09:47 INFO  Version - HHH000412: Hibernate Core {5.3.20.Final}
+2024-10-29 00:09:47 INFO  Environment - HHH000206: hibernate.properties not found
+2024-10-29 00:09:47 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-10-29 00:09:48 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-29 00:09:48 INFO  pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/ITstepAQA]
+2024-10-29 00:09:48 INFO  pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-10-29 00:09:48 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-10-29 00:09:48 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2024-10-29 00:09:48 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-29 00:09:48 INFO  access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@d653e41] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-10-29 00:09:48 WARN  SqlExceptionHelper - SQL Error: 1451, SQLState: 23000
+2024-10-29 00:09:48 ERROR SqlExceptionHelper - Cannot delete or update a parent row: a foreign key constraint fails (`itstepaqa`.`friends`, CONSTRAINT `FKoe11ieewh45mwweukudvhjpvp` FOREIGN KEY (`person_id`) REFERENCES `person` (`id`))
+2024-10-29 00:09:48 INFO  AbstractBatchImpl - HHH000010: On release of batch it still contained JDBC statements
+2024-10-29 00:09:48 ERROR ExceptionMapperStandardImpl - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2024-10-29 00:12:00 INFO  Version - HHH000412: Hibernate Core {5.3.20.Final}
+2024-10-29 00:12:00 INFO  Environment - HHH000206: hibernate.properties not found
+2024-10-29 00:12:00 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-10-29 00:12:00 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-29 00:12:00 INFO  pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/ITstepAQA]
+2024-10-29 00:12:00 INFO  pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-10-29 00:12:00 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-10-29 00:12:00 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2024-10-29 00:12:01 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-29 00:12:01 INFO  access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@110e9982] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-10-29 00:12:01 WARN  SqlExceptionHelper - SQL Error: 1451, SQLState: 23000
+2024-10-29 00:12:01 ERROR SqlExceptionHelper - Cannot delete or update a parent row: a foreign key constraint fails (`itstepaqa`.`friends`, CONSTRAINT `FKoe11ieewh45mwweukudvhjpvp` FOREIGN KEY (`person_id`) REFERENCES `person` (`id`))
+2024-10-29 00:12:01 INFO  AbstractBatchImpl - HHH000010: On release of batch it still contained JDBC statements
+2024-10-29 00:12:01 ERROR ExceptionMapperStandardImpl - HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2024-10-29 00:16:22 INFO  Version - HHH000412: Hibernate Core {5.3.20.Final}
+2024-10-29 00:16:22 INFO  Environment - HHH000206: hibernate.properties not found
+2024-10-29 00:16:23 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-10-29 00:16:23 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-29 00:16:23 INFO  pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/ITstepAQA]
+2024-10-29 00:16:23 INFO  pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-10-29 00:16:23 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-10-29 00:16:23 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2024-10-29 00:16:23 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-29 00:16:23 INFO  access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5c313224] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-10-29 00:16:23 INFO  pooling - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost/ITstepAQA]
+2024-10-29 00:19:46 INFO  Version - HHH000412: Hibernate Core {5.3.20.Final}
+2024-10-29 00:19:46 INFO  Environment - HHH000206: hibernate.properties not found
+2024-10-29 00:19:46 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-10-29 00:19:47 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-29 00:19:47 INFO  pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/ITstepAQA]
+2024-10-29 00:19:47 INFO  pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-10-29 00:19:47 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-10-29 00:19:47 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2024-10-29 00:19:47 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-29 00:19:47 INFO  access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5c313224] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-10-29 00:19:47 INFO  pooling - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost/ITstepAQA]
+2024-10-29 21:04:17 INFO  Version - HHH000412: Hibernate Core {5.3.20.Final}
+2024-10-29 21:04:17 INFO  Environment - HHH000206: hibernate.properties not found
+2024-10-29 21:04:18 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-10-29 21:04:18 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-29 21:04:18 INFO  pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/ITstepAQA]
+2024-10-29 21:04:18 INFO  pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-10-29 21:04:18 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-10-29 21:04:18 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2024-10-29 21:04:18 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-29 21:05:25 INFO  Version - HHH000412: Hibernate Core {5.3.20.Final}
+2024-10-29 21:05:26 INFO  Environment - HHH000206: hibernate.properties not found
+2024-10-29 21:05:26 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-10-29 21:05:26 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-29 21:05:26 INFO  pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/ITstepAQA]
+2024-10-29 21:05:26 INFO  pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-10-29 21:05:26 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-10-29 21:05:26 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2024-10-29 21:05:27 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-29 21:07:48 INFO  Version - HHH000412: Hibernate Core {5.3.20.Final}
+2024-10-29 21:07:48 INFO  Environment - HHH000206: hibernate.properties not found
+2024-10-29 21:07:49 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-10-29 21:07:49 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-29 21:07:49 INFO  pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/ITstepAQA]
+2024-10-29 21:07:49 INFO  pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-10-29 21:07:49 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-10-29 21:07:49 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2024-10-29 21:07:49 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-29 21:08:42 INFO  Version - HHH000412: Hibernate Core {5.3.20.Final}
+2024-10-29 21:08:42 INFO  Environment - HHH000206: hibernate.properties not found
+2024-10-29 21:08:43 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-10-29 21:08:43 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-29 21:08:43 INFO  pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/ITstepAQA]
+2024-10-29 21:08:43 INFO  pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-10-29 21:08:43 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-10-29 21:08:43 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2024-10-29 21:08:43 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-29 21:08:44 INFO  access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@16d431b4] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-10-29 21:08:44 ERROR ExceptionMapperStandardImpl - HHH000346: Error during managed flush [org.hibernate.TransientObjectException: object references an unsaved transient instance - save the transient instance before flushing: task_7.Hobby]
+2024-10-29 21:08:44 INFO  AbstractBatchImpl - HHH000010: On release of batch it still contained JDBC statements
+2024-10-29 21:08:44 INFO  pooling - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost/ITstepAQA]
+2024-10-29 21:10:47 INFO  Version - HHH000412: Hibernate Core {5.3.20.Final}
+2024-10-29 21:10:47 INFO  Environment - HHH000206: hibernate.properties not found
+2024-10-29 21:10:47 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-10-29 21:10:47 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-29 21:10:47 INFO  pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/ITstepAQA]
+2024-10-29 21:10:47 INFO  pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-10-29 21:10:47 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-10-29 21:10:47 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2024-10-29 21:10:47 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-29 21:10:48 INFO  access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7558633] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-10-29 21:10:48 INFO  pooling - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost/ITstepAQA]
+2024-10-29 21:19:14 INFO  Version - HHH000412: Hibernate Core {5.3.20.Final}
+2024-10-29 21:19:14 INFO  Environment - HHH000206: hibernate.properties not found
+2024-10-29 21:19:15 INFO  Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-10-29 21:19:15 WARN  pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-10-29 21:19:15 INFO  pooling - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost/ITstepAQA]
+2024-10-29 21:19:15 INFO  pooling - HHH10001001: Connection properties: {password=****, user=root}
+2024-10-29 21:19:15 INFO  pooling - HHH10001003: Autocommit mode: false
+2024-10-29 21:19:15 INFO  DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 1 (min=1)
+2024-10-29 21:19:15 INFO  Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-10-29 21:19:15 INFO  access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7558633] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-10-29 21:19:15 INFO  pooling - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost/ITstepAQA]

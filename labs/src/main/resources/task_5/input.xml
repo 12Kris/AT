@@ -1,0 +1,10 @@
+<person>
+    <name>Alex</name>
+    <isWorking>true</isWorking>
+    <timestamp>1645532452</timestamp>
+    <friends>
+        <friend>Emily</friend>
+        <friend>Michael</friend>
+        <friend>David</friend>
+    </friends>
+</person>

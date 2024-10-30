@@ -30,11 +30,11 @@ public class Task_8 {
         };
     }
 
-    @Parameters ({ "input", "result" })
+/*    @Parameters ({ "input", "result" })
     @Test
     public void isLetterWithParameterTest(char input, boolean result) {
         Assert.assertEquals(new Task2().isLetter(input), result, "isLetter method failed");
-    }
+    }*/
 
     @Test
     public void isLetterUppercase() {

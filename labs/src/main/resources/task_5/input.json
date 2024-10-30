@@ -1,0 +1,6 @@
+{
+  "name": "Alex",
+  "isWorking": true,
+  "timestamp": 1645532452,
+  "friends": ["Emily", "Michael", "David"]
+}

@@ -1,0 +1,377 @@
+{
+	"info": {
+		"_postman_id": "e8a93548-1243-4a5f-aafc-a0a4fc668a26",
+		"name": "Trello_AQA",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26051724",
+		"_collection_link": "https://grey-shadow-888412.postman.co/workspace/test~0a7cd597-5da1-4861-9ed2-cdf7e5495517/collection/26051724-e8a93548-1243-4a5f-aafc-a0a4fc668a26?action=share&source=collection_link&creator=26051724"
+	},
+	"item": [
+		{
+			"name": "Create a organization",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json"
+					}
+				],
+				"url": {
+					"raw": "https://api.trello.com/1/organizations?displayName=MyFirstOrganization&key={{Trello_API_KEY}}&token={{Trello_TOKEN}}",
+					"protocol": "https",
+					"host": [
+						"api",
+						"trello",
+						"com"
+					],
+					"path": [
+						"1",
+						"organizations"
+					],
+					"query": [
+						{
+							"key": "displayName",
+							"value": "MyFirstOrganization"
+						},
+						{
+							"key": "key",
+							"value": "{{Trello_API_KEY}}"
+						},
+						{
+							"key": "token",
+							"value": "{{Trello_TOKEN}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create a board",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://api.trello.com/1/boards/?name=Task_15&key={{Trello_API_KEY}}&token={{Trello_TOKEN}}",
+					"protocol": "https",
+					"host": [
+						"api",
+						"trello",
+						"com"
+					],
+					"path": [
+						"1",
+						"boards",
+						""
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "Task_15"
+						},
+						{
+							"key": "key",
+							"value": "{{Trello_API_KEY}}"
+						},
+						{
+							"key": "token",
+							"value": "{{Trello_TOKEN}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CreateList",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://api.trello.com/1/lists?name=TrelloList&idBoard={{Board_ID}}&key={{Trello_API_KEY}}&token={{Trello_TOKEN}}",
+					"protocol": "https",
+					"host": [
+						"api",
+						"trello",
+						"com"
+					],
+					"path": [
+						"1",
+						"lists"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "TrelloList"
+						},
+						{
+							"key": "idBoard",
+							"value": "{{Board_ID}}"
+						},
+						{
+							"key": "key",
+							"value": "{{Trello_API_KEY}}"
+						},
+						{
+							"key": "token",
+							"value": "{{Trello_TOKEN}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create a card",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json"
+					}
+				],
+				"url": {
+					"raw": "https://api.trello.com/1/cards?idList={{ListId}}&key={{Trello_API_KEY}}&token={{Trello_TOKEN}}",
+					"protocol": "https",
+					"host": [
+						"api",
+						"trello",
+						"com"
+					],
+					"path": [
+						"1",
+						"cards"
+					],
+					"query": [
+						{
+							"key": "idList",
+							"value": "{{ListId}}"
+						},
+						{
+							"key": "key",
+							"value": "{{Trello_API_KEY}}"
+						},
+						{
+							"key": "token",
+							"value": "{{Trello_TOKEN}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Set date",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "https://api.trello.com/1/cards/{{Card_ID}}?due=11.05.2024&key={{Trello_API_KEY}}&token={{Trello_TOKEN}}",
+					"protocol": "https",
+					"host": [
+						"api",
+						"trello",
+						"com"
+					],
+					"path": [
+						"1",
+						"cards",
+						"{{Card_ID}}"
+					],
+					"query": [
+						{
+							"key": "due",
+							"value": "11.05.2024"
+						},
+						{
+							"key": "key",
+							"value": "{{Trello_API_KEY}}"
+						},
+						{
+							"key": "token",
+							"value": "{{Trello_TOKEN}}"
+						},
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update date",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "https://api.trello.com/1/cards/{{Card_ID}}?due=11.20.2024&key={{Trello_API_KEY}}&token={{Trello_TOKEN}}",
+					"protocol": "https",
+					"host": [
+						"api",
+						"trello",
+						"com"
+					],
+					"path": [
+						"1",
+						"cards",
+						"{{Card_ID}}"
+					],
+					"query": [
+						{
+							"key": "due",
+							"value": "11.20.2024"
+						},
+						{
+							"key": "key",
+							"value": "{{Trello_API_KEY}}"
+						},
+						{
+							"key": "token",
+							"value": "{{Trello_TOKEN}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete date",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://api.trello.com/1/cards/{{Card_ID}}?due=null&key={{Trello_API_KEY}}&token={{Trello_TOKEN}}",
+					"protocol": "https",
+					"host": [
+						"api",
+						"trello",
+						"com"
+					],
+					"path": [
+						"1",
+						"cards",
+						"{{Card_ID}}"
+					],
+					"query": [
+						{
+							"key": "due",
+							"value": "null"
+						},
+						{
+							"key": "key",
+							"value": "{{Trello_API_KEY}}"
+						},
+						{
+							"key": "token",
+							"value": "{{Trello_TOKEN}}"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -11,34 +11,35 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class Task_10Manager {
-    WebDriver webDriver;
+    WebDriver driver;
 
     @BeforeTest
     public void setup() {
         WebDriverManager.chromedriver().setup();
-        webDriver = new ChromeDriver();
+        driver = new ChromeDriver();
     }
 
     @Test
     public void task10Test() {
-        webDriver.get("https://demoqa.com/checkbox");
+        driver.get("https://demoqa.com/checkbox");
 
-        WebElement expandAllToggleIcon = webDriver.findElement(By.xpath("//*[@id=\"tree-node\"]/ol/li/span/button"));
-        WebElement checkboxItemDocumentsToggleIcon = webDriver.findElement(By.xpath("//*[@id=\"tree-node\"]/ol/li/ol/li[2]/span/button"));
-        WebElement documentsItemVeu = webDriver.findElement(By.id("tree-node-veu"));
+        WebElement expandAllIcon = driver.findElement(By.xpath("//button[@title='Expand all']"));
+        WebElement documentsItemVeu = driver.findElement(By.id("tree-node-veu"));
+        WebElement collapseAllIcon = driver.findElement(By.xpath("//button[@title='Collapse all']"));
 
-        expandAllToggleIcon.click();
-        checkboxItemDocumentsToggleIcon.click();
+
+        expandAllIcon.click();
         documentsItemVeu.click();
+        collapseAllIcon.click();
 
-        Assert.assertTrue(expandAllToggleIcon.isDisplayed(), "Expand All button is not visible.");
-        Assert.assertTrue(checkboxItemDocumentsToggleIcon.isDisplayed(), "Documents is not visible.");
+        Assert.assertTrue(expandAllIcon.isDisplayed(), "Expand All button is not visible.");
         Assert.assertTrue(documentsItemVeu.isDisplayed(), "Item Veu is not visible");
+        Assert.assertTrue(collapseAllIcon.isDisplayed(), "Collapse ALL button is not visible.");
     }
 
     @AfterTest
     public void closeBrowser() {
-        webDriver.close();
-        webDriver.quit();
+        driver.close();
+        driver.quit();
     }
 }

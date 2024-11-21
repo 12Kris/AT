@@ -1,7 +1,6 @@
 package task_10;
 
-/*
-1. Set up ChromeDriver using the driver file and properties.
+/*1. Set up ChromeDriver using the driver file and properties.
 2. Set up ChromeDriver using DriverManager.
 3. Navigate to the page assigned to your variant.
 4. Select any three different elements.
@@ -9,8 +8,7 @@ package task_10;
 6. Verify the visibility of each element using assertions.
 7. Wrap all these steps into a TestNG test case.
 
-V10. https://demoqa.com (checkbox)
-*/
+V10. https://demoqa.com (checkbox)*/
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -38,7 +36,6 @@ public class Task_10 {
         WebElement expandAllIcon = driver.findElement(By.xpath("//button[@title='Expand all']"));
         WebElement documentsItemVeu = driver.findElement(By.id("tree-node-veu"));
         WebElement collapseAllIcon = driver.findElement(By.xpath("//button[@title='Collapse all']"));
-
 
         expandAllIcon.click();
         documentsItemVeu.click();

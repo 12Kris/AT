@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import static task_14.Task_14DriverProvider.getDriver;
 
 @Listeners({
-        AllureListener.class
+//        AllureListener.class
 })
 
 public class Task_14Test {

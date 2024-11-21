@@ -14,8 +14,9 @@ import task_16.responses.BoardResponse;
 import static io.restassured.RestAssured.given;
 
 public class Task_16TrelloTest {
-    private static final String KEY = "df12c6b02399539cc398e08610571fcd";
-    private static final String TOKEN = "ATTA453fc002be3d115fc14deb8cc1962fd58b15661650eef21d4ed85ef9eb458e4938D07DD0";
+
+    private static final String KEY = System.getenv("KEY");
+    private static final String TOKEN = System.getenv("TOKEN");
 
     @Test
     void trelloTest(){
@@ -191,4 +192,9 @@ Make restAssured TC using scenario from Task_15.
 The same using any another API client.
 Add Request and Response clases for each unique endpoints.
 Validate Response Object using your own class comparator.
+
+
+
+
+
 */
